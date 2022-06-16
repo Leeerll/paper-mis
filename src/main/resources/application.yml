@@ -25,5 +25,5 @@ mybatis-plus:
 
 files:
   upload:
+ #   path: /home/files/
     path: D:/代码/小白做毕设2022/files/
-#    path: /home/files/
